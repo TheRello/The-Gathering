@@ -1,6 +1,6 @@
 # The-Gathering
 Pathfinder 1e tracking for The Gathering campaign
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
